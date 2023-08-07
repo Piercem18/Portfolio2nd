@@ -419,5 +419,11 @@ border-radius: 10px;
     .LLL{
         margin-top:700px;
     }
+    .contact{
+        margin-top: 85vh;
+    }
+    .overlay-text2{
+        font-weight: bold;
+    }
 }
    
