@@ -382,8 +382,12 @@ border-radius: 10px;
     animation: fadeInText 1s ease-in 2s forwards; /* Animation properties */
 }
 .contact{
-    margin-top: 75vh;
+    margin-top: 85vh;
 }
+.overlay-text2{
+    font-weight: bold;
+}
+
 
 }
 
