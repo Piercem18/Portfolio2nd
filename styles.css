@@ -385,7 +385,7 @@ border-radius: 10px;
     margin-top: 85vh;
 }
 .overlay-text2{
-    font-weight: bolder;
+    font-weight: 400;
 }
 
 
@@ -423,7 +423,7 @@ border-radius: 10px;
         margin-top: 85vh;
     }
     .overlay-text2{
-        font-weight: bold;
+        font-weight:400;
     }
 }
    
