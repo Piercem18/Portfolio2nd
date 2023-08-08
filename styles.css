@@ -8,8 +8,7 @@
   html{
     scroll-behavior: smooth;
   }
- /* Your custom video container styling */
- .dropdown-content{
+  .dropdown-content{
     display: none;
 }
 .dropdown{
@@ -42,7 +41,7 @@
 .dropdown{
     position:relative;
     display:inline-block;
-}
+};
 
 .dropdown-content{
     display:none;
