@@ -334,6 +334,53 @@ border-radius: 10px;
     margin-top: 9vh;
    
 }
+.FEProjects{
+    margin-top: 30vh;
+}
+.FEProjectTitle, .netMeteringWesbite{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+    margin-top: 10vh;
+}
+
+.netMeteringPreviewImg img{
+    height:28vh;
+    width:25vw;
+}
+ .NMCard{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    margin-top: 10vh;
+    margin-left: 15vw;
+}
+.NMCard, .NMCardTitle, .NMDescription{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+}
+.NMLinks{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5vw;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 1vw;
+    margin-bottom: 1vh;
+    gap:2vw;
+}
+
+.NM2 {
+    box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.2);
+}
+
+.NMDescription a{
+    text-decoration:underline ;
+    color:blue;
+}
+
 .contact {
     display: flex;
     justify-content: center;
@@ -381,10 +428,13 @@ border-radius: 10px;
     animation: fadeInText 1s ease-in 2s forwards; /* Animation properties */
 }
 .contact{
-    margin-top: 85vh;
+    margin-top: 150vh;
 }
 .overlay-text2{
     font-weight: 400;
+}
+.FEProjects{
+    margin-top: 70vh;
 }
 
 
